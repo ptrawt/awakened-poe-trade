@@ -4976,3 +4976,208 @@
 {"name":"Усилитель Зиила","refName":"Zeel's Amplifier","namespace":"UNIQUE","unique":{"base":"Polished Spiked Shield","disenchantValue":4.13},"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1plYWxzQW1wbGlmaWVyIiwidyI6MiwiaCI6Miwic2NhbGUiOjF9XQ/d1e9af3da7/ZealsAmplifier.png"}
 {"name":"Сердце Зерфи","refName":"Zerphi's Heart","namespace":"UNIQUE","unique":{"base":"Paua Amulet","disenchantValue":26.52},"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9aZXJwaGlzSGVhcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e35140dfe/ZerphisHeart.png"}
 {"name":"Последний вздох Зерфи","refName":"Zerphi's Last Breath","namespace":"UNIQUE","unique":{"base":"Grand Mana Flask","disenchantValue":106.41},"icon":"https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvWmVycGhpc0xhc3RCcmVhdGgiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/bf8cb7b943/ZerphisLastBreath.png"}
+{"name":"Истрёпанная нить","refName":"Frayed Thread","namespace":"ITEM","tradeTag":"frayed-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9GcmF5ZWRUaHJlYWQiLCJzY2FsZSI6MX1d/05edda6ed4/FrayedThread.png"}
+{"name":"Резец Мейвен нитей","refName":"Maven's Chisel of Threads","namespace":"ITEM","tradeTag":"mavens-chisel-of-threads","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwzIiwic2NhbGUiOjF9XQ/a7a9ac8f01/MavenChisel3.png"}
+{"name":"Ядро душ интеллекта","refName":"Soul Core of Intellect","namespace":"ITEM","tradeTag":"soul-core-of-intellect","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY0ludGVsbGlnZW5jZSIsInNjYWxlIjoxfV0/34f9cc2429/SoulCoreGenericIntelligence.png"}
+{"name":"Ядро душ мощи","refName":"Soul Core of Might","namespace":"ITEM","tradeTag":"soul-core-of-might","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY1N0cmVuZ3RoIiwic2NhbGUiOjF9XQ/ec0c904c58/SoulCoreGenericStrength.png"}
+{"name":"Ядро душ искусности","refName":"Soul Core of Finesse","namespace":"ITEM","tradeTag":"soul-core-of-finesse","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY0RleHRlcml0eSIsInNjYWxlIjoxfV0/2729235e41/SoulCoreGenericDexterity.png"}
+{"name":"Ядро душ нестабильности","refName":"Soul Core of Instability","namespace":"ITEM","tradeTag":"soul-core-of-instability","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpYyIsInNjYWxlIjoxfV0/df392887b5/SoulCoreGeneric.png"}
+{"name":"Проклятая кукла","refName":"Cursed Poppet","namespace":"ITEM","tradeTag":"cursed-poppet","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdWd1cnlCb3NzRnJhZ21lbnQiLCJzY2FsZSI6MX1d/e712f203bf/AuguryBossFragment.png"}
+{"name":"Лик царицы","refName":"Royal Visage","namespace":"ITEM","tradeTag":"royal-visage","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbENvbXBsZXRlIiwic2NhbGUiOjF9XQ/994d9e2821/UberVaalComplete.png"}
+{"name":"Нить Экспедиции","refName":"Expedition Thread","namespace":"ITEM","tradeTag":"expedition-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9FeHBlZGl0aW9uVGhyZWFkIiwic2NhbGUiOjF9XQ/9541c89bf9/ExpeditionThread.png"}
+{"name":"Нить Бездны","refName":"Abyss Thread","namespace":"ITEM","tradeTag":"abyss-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9BYnlzc1RocmVhZCIsInNjYWxlIjoxfV0/fa2302d9d4/AbyssThread.png"}
+{"name":"Нить Разлома","refName":"Breach Thread","namespace":"ITEM","tradeTag":"breach-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CcmVhY2hUaHJlYWQiLCJzY2FsZSI6MX1d/d600d1d343/BreachThread.png"}
+{"name":"Нить Ритуала","refName":"Ritual Thread","namespace":"ITEM","tradeTag":"ritual-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9SaXR1YWxUaHJlYWQiLCJzY2FsZSI6MX1d/ec35a48af4/RitualThread.png"}
+{"name":"Нить Ультиматума","refName":"Ultimatum Thread","namespace":"ITEM","tradeTag":"ultimatum-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9VbHRpbWF0dW1UaHJlYWQiLCJzY2FsZSI6MX1d/74155b9b4e/UltimatumThread.png"}
+{"name":"Нить Легиона","refName":"Legion Thread","namespace":"ITEM","tradeTag":"legion-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9MZWdpb25UaHJlYWQiLCJzY2FsZSI6MX1d/819bd1a22b/LegionThread.png"}
+{"name":"Нить Скверны","refName":"Blight Thread","namespace":"ITEM","tradeTag":"blight-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CbGlnaHRUaHJlYWQiLCJzY2FsZSI6MX1d/add7a8099e/BlightThread.png"}
+{"name":"Нить Бестиария","refName":"Bestiary Thread","namespace":"ITEM","tradeTag":"bestiary-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CZXN0aWFyeVRocmVhZCIsInNjYWxlIjoxfV0/7fd44c21e8/BestiaryThread.png"}
+{"name":"Нить Предательства","refName":"Betrayal Thread","namespace":"ITEM","tradeTag":"betrayal-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CZXRyYXlhbFRocmVhZCIsInNjYWxlIjoxfV0/fa10b037f1/BetrayalThread.png"}
+{"name":"Нить Вмешательства","refName":"Incursion Thread","namespace":"ITEM","tradeTag":"incursion-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9JbmN1cnNpb25UaHJlYWQiLCJzY2FsZSI6MX1d/c727d5bfc4/IncursionThread.png"}
+{"name":"Бессмертная астролябия","refName":"Immortal Astrolabe","namespace":"ITEM","tradeTag":"immortal-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uQmV0cmF5YWwiLCJzY2FsZSI6MX1d/448fbf5692/AtlasMissionBetrayal.png"}
+{"name":"Дикая астролябия","refName":"Feral Astrolabe","namespace":"ITEM","tradeTag":"feral-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uQmVzdGlhcnkiLCJzY2FsZSI6MX1d/060e272614/AtlasMissionBestiary.png"}
+{"name":"Царская астролябия","refName":"Royal Astrolabe","namespace":"ITEM","tradeTag":"royal-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uSW5jdXJzaW9uIiwic2NhbGUiOjF9XQ/d689de7ec1/AtlasMissionIncursion.png"}
+{"name":"Загадочная астролябия","refName":"Cryptic Astrolabe","namespace":"ITEM","tradeTag":"cryptic-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uTXlzdGVyeSIsInNjYWxlIjoxfV0/1da78bb462/AtlasMissionMystery.png"}
+{"name":"Уголь Всепламени обители","refName":"Allflame Ember of the Cloister","namespace":"ITEM","tradeTag":"allflame-ember-of-the-cloister","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZUNsb2lzdGVyIiwic2NhbGUiOjF9XQ/98f5889478/AllflameCloister.png"}
+{"name":"Уголь Всепламени множества","refName":"Allflame Ember of the Multitude","namespace":"ITEM","tradeTag":"allflame-ember-of-the-multitude","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZUF0bGFzIiwic2NhbGUiOjF9XQ/d6b8ab90ac/AllflameAtlas.png"}
+{"name":"Уголь Всепламени божественности","refName":"Allflame Ember of the Divine","namespace":"ITEM","tradeTag":"allflame-ember-of-the-divine","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZVBhbnRoZW9uIiwic2NhbGUiOjF9XQ/47e6436654/AllflamePantheon.png"}
+{"name":"Затуманивающий кристалл афарудцев","refName":"Afarud Enshrouding Crystal","namespace":"ITEM","tradeTag":"afarud-enshrouding-crystal","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTGVnaW9uL0FmYXJ1ZEVuc2hyb3VkaW5nQ3J5c3RhbCIsInNjYWxlIjoxfV0/6e040b24a0/AfarudEnshroudingCrystal.png"}
+{"name":"Нитяная сфера Делириума","refName":"Threaded Delirium Orb","namespace":"ITEM","tradeTag":"threaded-delirium-orb","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwic2NhbGUiOjF9XQ/ca1dcdc38b/DeliriumOrbScarabs.png"}
+{"name":"Сущность обмана","refName":"Essence of Trickery","namespace":"ITEM","tradeTag":"essence-of-trickery","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlRGVsaXJpdW0iLCJzY2FsZSI6MX1d/d55a1ae408/EssenceDelirium.png"}
+{"name":"Мицелиевая основа","refName":"Mycelium Core","namespace":"ITEM","craftable":{"category":"Jewel","uniqueOnly":true},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Jewels/BlightcoreJewel.webp"}
+{"name":"Шкура вендиго","refName":"Hide of the Vendigo","namespace":"UNIQUE","unique":{"base":"Exquisite Leather"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/BodyArmours/VendigoPelt.webp"}
+{"name":"Эпохальный меч","refName":"The Sword of Ages","namespace":"UNIQUE","unique":{"base":"Exquisite Blade"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Supporter2HWeapon.webp"}
+{"name":"Тлетворное семя","refName":"Putrid Seed","namespace":"UNIQUE","unique":{"base":"Mycelium Core"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Jewels/BlightcoreJewel.webp"}
+{"name":"Причастие страходев","refName":"Dreadmaidens' Sacrament","namespace":"UNIQUE","unique":{"base":"Basalt Flask"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Flasks/Thornbrew.webp"}
+{"name":"Алчная тьма","refName":"The Covetous Dark","namespace":"UNIQUE","unique":{"base":"Eye Gouger"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Eyethief_Tier00.webp"}
+{"name":"Трупная роза","refName":"Corpse Rose","namespace":"UNIQUE","unique":{"base":"Imbued Wand"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/FloresSanguinaire.webp"}
+{"name":"Губитель еретиков","refName":"Bane of the Apostate","namespace":"UNIQUE","unique":{"base":"Judgement Staff"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/BonfiresCensure.webp"}
+{"name":"Предопределённая судьба","refName":"Ordered Fate","namespace":"UNIQUE","unique":{"base":"Walnut Spirit Shield"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/Shields/OrderedFate.webp"}
+{"name":"Покров плоти","refName":"Veil of Flesh","namespace":"UNIQUE","unique":{"base":"Callous Mask"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/Helmets/ParasiticTwin.webp"}
+{"name":"Пелена снов","refName":"Mantle of Dreams","namespace":"UNIQUE","unique":{"base":"Twilight Regalia"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/BodyArmours/UnleashBodyArmour.webp"}
+{"name":"Нежеланные объятия","refName":"Unwilling Embrace","namespace":"UNIQUE","unique":{"base":"Bone Ring"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Rings/UnwillingEmbrace.webp"}
+{"name":"Колдовская связь","refName":"Arcane Link","namespace":"GEM","icon":"https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcaneLinkGem.webp","gem":{"maxLevel":20}}
+{"name":"Огненный шар облучения","refName":"Fireball of Radiation","namespace":"GEM","tradeDisc":"alt_x","icon":"https://cdn.poedb.tw/image/Art/2DItems/Gems/Fireball.webp","gem":{"maxLevel":20,"transfigured":true,"normalVariant":"Fireball"}}
+{"name":"Обугленная рука","refName":"Scorched Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraFireFury.webp"}
+{"name":"Отсечённая голова роа","refName":"Severed Rhoa Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraRhoaHead.webp"}
+{"name":"Щупальце морской ведьмы","refName":"Sea Witch's Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLeg.webp"}
+{"name":"Клешня ракообразного","refName":"Crustacean's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraClaw1.webp"}
+{"name":"Тотемный образ","refName":"Totemic Visage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTikiTotem.webp"}
+{"name":"Рука скелета-лучника","refName":"Skeletal Archer's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonHand.webp"}
+{"name":"Рука скелета-воина","refName":"Skeletal Warrior's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonFoot.webp"}
+{"name":"Рука тюремщика","refName":"Warden's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraBrute1.webp"}
+{"name":"Рог козерога","refName":"Goatman's Horn","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraGoatHorn.webp"}
+{"name":"Треуголка моряка","refName":"Mariner's Tricorne","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraPirateHat.webp"}
+{"name":"Сущность стихии","refName":"Elemental Essence","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraOrbofWater.webp"}
+{"name":"Электрическое щупальце","refName":"Galvanic Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLegLightning.webp"}
+{"name":"Щупальце сирены","refName":"Siren's Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraMerveilLeg.webp"}
+{"name":"Голова головореза","refName":"Cutthroat's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraCalaf.webp"}
+{"name":"Камень голема","refName":"Golemic Stone","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRockBody.webp"}
+{"name":"Громадные когти","refName":"Gargantuan Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraClaw2.webp"}
+{"name":"Пустой череп","refName":"Hollowed Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSkullHead.webp"}
+{"name":"Рёбра костяка","refName":"Bonestalker's Ribcage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRibcage.webp"}
+{"name":"Череп жреца","refName":"Templar Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBossSkull.webp"}
+{"name":"Жвалы арахнида","refName":"Arachnid Fangs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderHead.webp"}
+{"name":"Отсечённое жало","refName":"Severed Stinger","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraStingerLeg.webp"}
+{"name":"Голова бандита","refName":"Bandit Rogue's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraKraitynHead.webp"}
+{"name":"Нога браконьера","refName":"Poacher's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBanditsLeg.webp"}
+{"name":"Хвост кобры","refName":"Cobra Tail","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSnakeTailLeg.webp"}
+{"name":"Голова ведьмы","refName":"Bandit Witch's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraAlirasHead.webp"}
+{"name":"Нога арахнида","refName":"Arachnid Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderLeg.webp"}
+{"name":"Конечность ваал","refName":"Vaal Appendage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraVaalArm.webp"}
+{"name":"Голова воеводы","refName":"Bandit Warrior's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraOakHead.webp"}
+{"name":"Ступня примата","refName":"Primate Foot","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraMonkeyLeg.webp"}
+{"name":"Плоть медведя","refName":"Ursine Flesh","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraDropBear.webp"}
+{"name":"Искусственная конечность","refName":"Artificial Appendage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraIncaBoss3Arm.webp"}
+{"name":"Отсечённая рука-коса","refName":"Severed Scythe-hand","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraReaperHand.webp"}
+{"name":"Нога капитана","refName":"Captain's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierLeg.webp"}
+{"name":"Костяные когти","refName":"Spined Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraUndyingClaw.webp"}
+{"name":"Расплавленное ядро","refName":"Molten Core","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraFlamingGolemCore.webp"}
+{"name":"Обезображенный бюст","refName":"Defaced Bust","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDefacedStatueHead.webp"}
+{"name":"Призрачный капюшон","refName":"Spectral Hood","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraShadeHood.webp"}
+{"name":"Голова солдата","refName":"Soldier's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierHead.webp"}
+{"name":"Пылающая лента","refName":"Flaming Ribbon","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBurningRugArm.webp"}
+{"name":"Нога статуи","refName":"Statue Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraStatueLeg.webp"}
+{"name":"Нога носителя пустоты","refName":"Voidbearer's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSmolderingLeg.webp"}
+{"name":"Электрический аппарат","refName":"Voltaic Apparatus","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraLightningHead.webp"}
+{"name":"Голова генерала","refName":"General's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraGravicusHead.webp"}
+{"name":"Рука громилы","refName":"Brute's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraMuscularArm.webp"}
+{"name":"Голова волшебницы","refName":"Thaumaturge's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraPietysHead.webp"}
+{"name":"Шипастый панцирь","refName":"Spiked Carapace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSpikedBodyCarapace.webp"}
+{"name":"Нога скелета-монстра","refName":"Skeletal Beast Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraHindBeastBoneLeg.webp"}
+{"name":"Рука учёного","refName":"Scholar's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossArm.webp"}
+{"name":"Торс аристократа","refName":"Aristocrat's Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossTorso.webp"}
+{"name":"Кулак деспота","refName":"Despot's Fist","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDominusFist.webp"}
+{"name":"Кишки стервятника","refName":"Vulture's Gut","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVultureGut.webp"}
+{"name":"Жреческое знамя","refName":"Templar Banner","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVollBanner.webp"}
+{"name":"Рябая нога","refName":"Pocked Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedLeg.webp"}
+{"name":"Рябая рука","refName":"Pocked Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedArm.webp"}
+{"name":"Слившийся с плотью фонарь","refName":"Flesh-fused Lantern","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraFleshmeltedLantern.webp"}
+{"name":"Резной таз","refName":"Carved Haunches","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraTotemChunk.webp"}
+{"name":"Горящий череп","refName":"Blazing Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraKaomHead.webp"}
+{"name":"Сердце гладиатора","refName":"Gladiator's Heart","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraBarkhulHeart.webp"}
+{"name":"Клинок мастера мечей","refName":"Swordmaster's Blade","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraDaressoBlade.webp"}
+{"name":"Хитиновая нога","refName":"Chitinous Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraSpindlyLegs.webp"}
+{"name":"Налитый глаз","refName":"Engorged Eye","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPietySwollenEye.webp"}
+{"name":"Осквернённый панцирь","refName":"Corrupted Carapace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraMalachaiCarapace.webp"}
+{"name":"Когти вендиго","refName":"Vendigo Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVendigoClaw.webp"}
+{"name":"Кнут надзирателя","refName":"Overseer's Whip","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSlaveDriversWhip.webp"}
+{"name":"Шлем юстициара","refName":"Justicar's Helm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraJusticarsHelmet.webp"}
+{"name":"Пылающая жаровня","refName":"Flaming Furnace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraMatriarchsCauldron.webp"}
+{"name":"Корона приверженца","refName":"Adherent's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraPrayerCrown.webp"}
+{"name":"Еретический том","refName":"Heretical Tome","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHereticalBook.webp"}
+{"name":"Костяной хвост","refName":"Skeletal Tail","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSkullTail.webp"}
+{"name":"Нога учёного","refName":"Scholar's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHandLeg.webp"}
+{"name":"Ненасытный череп","refName":"Ravenous Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraKitavasHead.webp"}
+{"name":"Голова аристократа","refName":"Noble's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraDrownedHead.webp"}
+{"name":"Сдвоенная голова гончей","refName":"Conjoined Hound Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTwinHoundHeads.webp"}
+{"name":"Лук разведчицы","refName":"Scout's Bow","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraKaruiFlamingBow.webp"}
+{"name":"Дубина предка","refName":"Ancestor's Club","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTukohamasClubs.webp"}
+{"name":"Колесо скелета","refName":"Skeleton Wheel","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraSkeletonWheel.webp"}
+{"name":"Окаменевший коготь","refName":"Osseous Talon","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraLightweightBones.webp"}
+{"name":"Освежёванный лик","refName":"Flayed Visage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraShavronnesVeil.webp"}
+{"name":"Медвежья голова","refName":"Bear Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBearHead.webp"}
+{"name":"Кабанья голова","refName":"Boar Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBoarHead.webp"}
+{"name":"Оленья голова","refName":"Stag Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraStagHead.webp"}
+{"name":"Яйцевой мешок арахнида","refName":"Arachnid Egg Sac","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraRyslathasEggSac.webp"}
+{"name":"Кишащий торс","refName":"Infested Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraInfestedTorso.webp"}
+{"name":"Клешня королевского краба","refName":"King Crab's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBrineKingsClaw.webp"}
+{"name":"Окостеневшая нога","refName":"Calcified Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraBoneMass.webp"}
+{"name":"Призрачные когти","refName":"Wraith Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraWraithClaw.webp"}
+{"name":"Заражённая нога","refName":"Infected Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraPutridLegs.webp"}
+{"name":"Коготь инквизитора","refName":"Inquisitor's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraMaligarosClaw.webp"}
+{"name":"Маска некроманта","refName":"Necromancer's Mask","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraNecromancersMask.webp"}
+{"name":"Разукрашенный торс","refName":"Ornate Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraRalakeshsFaces.webp"}
+{"name":"Усик пожирателя","refName":"Devourer's Antenna","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraDevourersClaws.webp"}
+{"name":"Почерневшие лёгкие","refName":"Blackened Lungs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/GruthkulsLungs.webp"}
+{"name":"Голова конструкта","refName":"Construct's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraSentrysHead.webp"}
+{"name":"Голова царицы пауков","refName":"Spider Queen's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraArakaalisHead.webp"}
+{"name":"Иссушенная голова","refName":"Dessicated Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAberrationsHead.webp"}
+{"name":"Желудок яги","refName":"Hag's Stomach","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraDoedreGuts.webp"}
+{"name":"Призрачный коготь","refName":"Ghostly Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraOndarClaw.webp"}
+{"name":"Ужасающая пасть","refName":"Terrifying Maw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraYugulMaw.webp"}
+{"name":"Нога в доспехах","refName":"Armoured Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraTituciusLegGuard.webp"}
+{"name":"Нога чёрного стражника","refName":"Blackguard's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoonlitLeg.webp"}
+{"name":"Чемпионское знамя","refName":"Champion's Banner","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisChampionBanner.webp"}
+{"name":"Лунный лук","refName":"Lunar Bow","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraBowofLunaris.webp"}
+{"name":"Золотой анкх","refName":"Golden Ankh","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAnkhofEternity.webp"}
+{"name":"Торс каменита","refName":"Gemling Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraGemlingTorso.webp"}
+{"name":"Вилы пугала","refName":"Scarecrow's Pitchfork","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraScarecrowPitchfork.webp"}
+{"name":"Обугленная нога","refName":"Charred Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoltenLeg.webp"}
+{"name":"Выжженный нагрудник","refName":"Sun-bleached Breastplate","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisChampionBreastplate.webp"}
+{"name":"Ослепительный скипетр","refName":"Resplendent Sceptre","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSceptreofSolaris.webp"}
+{"name":"Солнечный щит","refName":"Solar Shield","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisShield.webp"}
+{"name":"Клинок-полумесяц","refName":"Crescent Blade","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisGlaive.webp"}
+{"name":"Кисть контрабандиста","refName":"Smuggler's Hand","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSmugglerHand.webp"}
+{"name":"Сгущённая сущность","refName":"Coagulated Essence","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBloodClot.webp"}
+{"name":"Студёные когти","refName":"Gelid Fangs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraFrozenFangs.webp"}
+{"name":"Пустынный меч","refName":"Desert Sword","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSandySword.webp"}
+{"name":"Скорпионье жало","refName":"Scorpion Stinger","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShakarisStinger.webp"}
+{"name":"Каменный таз","refName":"Lithic Haunches","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraRockyBullHooves.webp"}
+{"name":"Глаз ящера","refName":"Chimeral Eye","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBasiliskEye.webp"}
+{"name":"Сердце голема хаоса","refName":"Chaos Golem's Core","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraChaosGolemsCore.webp"}
+{"name":"Корона царицы пустыни","refName":"Desert Queen's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraGarukhansCrown.webp"}
+{"name":"Гальванический череп","refName":"Voltaic Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSteamPunkSkull.webp"}
+{"name":"Освежёванная рука","refName":"Flayed Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSinewArm.webp"}
+{"name":"Голова инквизитора","refName":"Inquisitor's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraMaligaroHead.webp"}
+{"name":"Голова ведьмы","refName":"Witch's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShavronnesHead.webp"}
+{"name":"Голова яги","refName":"Hag's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraDoedresHead.webp"}
+{"name":"Больное крыло","refName":"Diseased Wing","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraPlagueWings.webp"}
+{"name":"Окровавленная рука","refName":"Bloodied Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBloodiedArm.webp"}
+{"name":"Искусственная нога","refName":"Prosthetic Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraWickerLeg.webp"}
+{"name":"Раздутый живот","refName":"Distended Stomach","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraRegurgitatorStomach.webp"}
+{"name":"Тлеющая нога","refName":"Smouldering Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraVilentasLeg.webp"}
+{"name":"Сломанный бюст","refName":"Broken Bust","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraKnowledgeableBust.webp"}
+{"name":"Костяная коса","refName":"Osseous Scythe","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBoneScythe.webp"}
+{"name":"Пламенное козье копыто","refName":"Flaming Goat Hoof","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraFlamingGoatHooves.webp"}
+{"name":"Планетарий Мейвен","refName":"Maven's Orrery","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMavenOrrery.webp"}
+{"name":"Голова Сируса","refName":"Sirus' Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSirusHead.webp"}
+{"name":"Голова Воплощения ужаса","refName":"Incarnation of Dread's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDreadHead.webp"}
+{"name":"Голова Воплощения забвения","refName":"Incarnation of Neglect's Cube","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraNeglectCube.webp"}
+{"name":"Голова Воплощения страха","refName":"Incarnation of Fear's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraFearHead.webp"}
+{"name":"Познание Пламенного экзарха","refName":"Searing Exarch's Descry","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSearingExarchDescry.webp"}
+{"name":"Голова Пожирателя миров","refName":"Eater of Worlds' Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEaterofWorldsHead.webp"}
+{"name":"Голова Древнего","refName":"Elder's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraElderHead.webp"}
+{"name":"Голова Создателя","refName":"Shaper's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraShapersHead.webp"}
+{"name":"Рукопись Венария","refName":"Venarius' Scripture","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVenariusScripture.webp"}
+{"name":"Голова Минотавра","refName":"Minotaur's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMinotaurHead.webp"}
+{"name":"Голова Гидры","refName":"Hydra's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHydraHead.webp"}
+{"name":"Голова Химеры","refName":"Chimera's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraChimeraHead.webp"}
+{"name":"Голова Феникса","refName":"Phoenix's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPhoenixHead.webp"}
+{"name":"Голова Угнетателя","refName":"Constrictor's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraConstrictorHead.webp"}
+{"name":"Голова Искупителя","refName":"Purifier's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPurifierHead.webp"}
+{"name":"Голова Поработителя","refName":"Enslaver's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEnslaverHead.webp"}
+{"name":"Голова Искоренителя","refName":"Eradicator's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEradicatorHead.webp"}
+{"name":"Голова Бэрана","refName":"Baran's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBaranHead.webp"}
+{"name":"Голова Веритании","refName":"Veritania's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVeritaniaHead.webp"}
+{"name":"Голова Дрокса","refName":"Drox's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDroxHead.webp"}
+{"name":"Голова Аль-Хезмина","refName":"Al-Hezmin's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAlHezminsHead.webp"}
+{"name":"Шлем бойца ям","refName":"Pit Fighter's Helm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraGladiatorHelmet.webp"}
+{"name":"Когти льва","refName":"Lion's Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraLionClaw.webp"}
+{"name":"Крылья летучей мыши","refName":"Bat's Wings","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBatWings.webp"}
+{"name":"Кошмарная книга порока","refName":"Nightmarish Book of Depravity","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBookofDepravity.webp"}
+{"name":"Кошмарная голова Утреда","refName":"Nightmarish Head of Uhtred","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHeadofUhtred.webp"}
+{"name":"Кошмарное ядро Нерушимого","refName":"Nightmarish Core of the Unbreakable","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraCoreoftheUnbreakable.webp"}
+{"name":"Кошмарные крылья Люции","refName":"Nightmarish Wings of Lycia","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofLycia.webp"}
+{"name":"Кошмарные крылья Катарины","refName":"Nightmarish Wings of Catarina","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofCatarina.webp"}
+{"name":"Корона Владычицы ковена","refName":"Coven Queen's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAuguryLeagueBoss.webp"}

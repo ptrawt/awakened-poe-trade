@@ -28,6 +28,24 @@ npm run dev
 
 # How to build
 
+## Windows releases for the nm fork
+
+The Windows NSIS installer checks GitHub Releases in `ptrawt/awakened-poe-trade`
+for updates. The Portable build supports manual updates.
+
+For a release, update the version in `main/package.json` and its lockfile, commit
+on the `nm` branch, and push that commit to the fork. From the repository root
+on Windows, run the following after building the renderer and main process:
+
+```powershell
+Set-Location main
+npm run package -- --win nsis --x64 --publish never
+```
+
+Create the matching `v<version>` GitHub release from that commit and upload
+the installer, its `.blockmap`, and `latest.yml` from the same build. Publish
+the release after the three files are uploaded.
+
 ```shell
 cd renderer
 npm ci

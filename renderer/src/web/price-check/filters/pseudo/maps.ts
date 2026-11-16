@@ -23,6 +23,15 @@ function areaProps (
 ): void {
   const { item } = ctx
 
+  if (item.areaAtlasDrops) {
+    ctx.filters.push(propToFilter({
+      ref: 'Atlas Drops: +#%',
+      tradeId: 'item.map_atlas_drops',
+      roll: { min: 0, max: Number.MAX_SAFE_INTEGER, value: item.areaAtlasDrops },
+      sources: [],
+      disabled: disabled.itemQuantity
+    }, ctx))
+  }
   if (item.areaItemQuantity) {
     ctx.filters.push(propToFilter({
       ref: 'Item Quantity: +#%',

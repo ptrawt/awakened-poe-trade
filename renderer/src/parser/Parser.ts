@@ -193,6 +193,11 @@ function findInDatabase (item: ParserState) {
     info = ITEM_BY_TRANSLATED('UNIQUE', item.name)
   } else {
     info = ITEM_BY_TRANSLATED('ITEM', item.baseType ?? item.name)
+    if (!info && !item.baseType) {
+      // The trade catalog lists the base name for every Viscera tier.
+      const baseName = /^(?:Lesser|Greater) (.+)$/.exec(item.name)?.[1]
+      if (baseName) info = ITEM_BY_TRANSLATED('ITEM', baseName)?.filter(entry => entry.viscera)
+    }
   }
   if (!info?.length) {
     return err('item.unknown')
@@ -244,7 +249,10 @@ function parseMapTier (item: ParserState) {
 }
 
 function parseAreaPropNested (line: string, item: ParsedItem): boolean {
-  if (line.startsWith(_$.MAP_ITEM_QUANTITY)) {
+  if (line.startsWith(_$.MAP_ATLAS_DROPS)) {
+    item.areaAtlasDrops = parseInt(line.slice(_$.MAP_ATLAS_DROPS.length), 10)
+    return true
+  } else if (line.startsWith(_$.MAP_ITEM_QUANTITY)) {
     item.areaItemQuantity = parseInt(line.slice(_$.MAP_ITEM_QUANTITY.length), 10)
     return true
   } else if (line.startsWith(_$.MAP_ITEM_RARITY)) {
@@ -795,6 +803,7 @@ function parseMercenaryGems (section: string[], item: ParsedItem) {
 
 function parseModifiers (section: string[], item: ParsedItem) {
   if (
+    !item.info.viscera &&
     item.rarity !== ItemRarity.Normal &&
     item.rarity !== ItemRarity.Magic &&
     item.rarity !== ItemRarity.Rare &&

@@ -4977,3 +4977,208 @@
 {"name":"질의 증폭기","refName":"Zeel's Amplifier","namespace":"UNIQUE","unique":{"base":"Polished Spiked Shield","disenchantValue":4.13},"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1plYWxzQW1wbGlmaWVyIiwidyI6MiwiaCI6Miwic2NhbGUiOjF9XQ/d1e9af3da7/ZealsAmplifier.png"}
 {"name":"제르피의 심장","refName":"Zerphi's Heart","namespace":"UNIQUE","unique":{"base":"Paua Amulet","disenchantValue":26.52},"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9aZXJwaGlzSGVhcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e35140dfe/ZerphisHeart.png"}
 {"name":"제르피의 마지막 숨결","refName":"Zerphi's Last Breath","namespace":"UNIQUE","unique":{"base":"Grand Mana Flask","disenchantValue":106.41},"icon":"https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvWmVycGhpc0xhc3RCcmVhdGgiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/bf8cb7b943/ZerphisLastBreath.png"}
+{"name":"해진 실낱","refName":"Frayed Thread","namespace":"ITEM","tradeTag":"frayed-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9GcmF5ZWRUaHJlYWQiLCJzY2FsZSI6MX1d/05edda6ed4/FrayedThread.png"}
+{"name":"실낱의 메이븐의 끌","refName":"Maven's Chisel of Threads","namespace":"ITEM","tradeTag":"mavens-chisel-of-threads","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwzIiwic2NhbGUiOjF9XQ/a7a9ac8f01/MavenChisel3.png"}
+{"name":"지능의 영혼 핵","refName":"Soul Core of Intellect","namespace":"ITEM","tradeTag":"soul-core-of-intellect","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY0ludGVsbGlnZW5jZSIsInNjYWxlIjoxfV0/34f9cc2429/SoulCoreGenericIntelligence.png"}
+{"name":"완력의 영혼 핵","refName":"Soul Core of Might","namespace":"ITEM","tradeTag":"soul-core-of-might","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY1N0cmVuZ3RoIiwic2NhbGUiOjF9XQ/ec0c904c58/SoulCoreGenericStrength.png"}
+{"name":"수완의 영혼 핵","refName":"Soul Core of Finesse","namespace":"ITEM","tradeTag":"soul-core-of-finesse","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpY0RleHRlcml0eSIsInNjYWxlIjoxfV0/2729235e41/SoulCoreGenericDexterity.png"}
+{"name":"불안정의 영혼 핵","refName":"Soul Core of Instability","namespace":"ITEM","tradeTag":"soul-core-of-instability","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bGNvcmVzL1NvdWxDb3JlR2VuZXJpYyIsInNjYWxlIjoxfV0/df392887b5/SoulCoreGeneric.png"}
+{"name":"저주받은 귀염둥이","refName":"Cursed Poppet","namespace":"ITEM","tradeTag":"cursed-poppet","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdWd1cnlCb3NzRnJhZ21lbnQiLCJzY2FsZSI6MX1d/e712f203bf/AuguryBossFragment.png"}
+{"name":"용안","refName":"Royal Visage","namespace":"ITEM","tradeTag":"royal-visage","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbENvbXBsZXRlIiwic2NhbGUiOjF9XQ/994d9e2821/UberVaalComplete.png"}
+{"name":"탐험 실낱","refName":"Expedition Thread","namespace":"ITEM","tradeTag":"expedition-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9FeHBlZGl0aW9uVGhyZWFkIiwic2NhbGUiOjF9XQ/9541c89bf9/ExpeditionThread.png"}
+{"name":"심연 실낱","refName":"Abyss Thread","namespace":"ITEM","tradeTag":"abyss-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9BYnlzc1RocmVhZCIsInNjYWxlIjoxfV0/fa2302d9d4/AbyssThread.png"}
+{"name":"균열 실낱","refName":"Breach Thread","namespace":"ITEM","tradeTag":"breach-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CcmVhY2hUaHJlYWQiLCJzY2FsZSI6MX1d/d600d1d343/BreachThread.png"}
+{"name":"의식 실낱","refName":"Ritual Thread","namespace":"ITEM","tradeTag":"ritual-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9SaXR1YWxUaHJlYWQiLCJzY2FsZSI6MX1d/ec35a48af4/RitualThread.png"}
+{"name":"결전 실낱","refName":"Ultimatum Thread","namespace":"ITEM","tradeTag":"ultimatum-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9VbHRpbWF0dW1UaHJlYWQiLCJzY2FsZSI6MX1d/74155b9b4e/UltimatumThread.png"}
+{"name":"군단 실낱","refName":"Legion Thread","namespace":"ITEM","tradeTag":"legion-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9MZWdpb25UaHJlYWQiLCJzY2FsZSI6MX1d/819bd1a22b/LegionThread.png"}
+{"name":"역병 실낱","refName":"Blight Thread","namespace":"ITEM","tradeTag":"blight-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CbGlnaHRUaHJlYWQiLCJzY2FsZSI6MX1d/add7a8099e/BlightThread.png"}
+{"name":"야수 도감 실낱","refName":"Bestiary Thread","namespace":"ITEM","tradeTag":"bestiary-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CZXN0aWFyeVRocmVhZCIsInNjYWxlIjoxfV0/7fd44c21e8/BestiaryThread.png"}
+{"name":"배신 실낱","refName":"Betrayal Thread","namespace":"ITEM","tradeTag":"betrayal-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9CZXRyYXlhbFRocmVhZCIsInNjYWxlIjoxfV0/fa10b037f1/BetrayalThread.png"}
+{"name":"기습 실낱","refName":"Incursion Thread","namespace":"ITEM","tradeTag":"incursion-thread","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGhyZWFkcy9JbmN1cnNpb25UaHJlYWQiLCJzY2FsZSI6MX1d/c727d5bfc4/IncursionThread.png"}
+{"name":"불멸의 관측기","refName":"Immortal Astrolabe","namespace":"ITEM","tradeTag":"immortal-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uQmV0cmF5YWwiLCJzY2FsZSI6MX1d/448fbf5692/AtlasMissionBetrayal.png"}
+{"name":"야생 관측기","refName":"Feral Astrolabe","namespace":"ITEM","tradeTag":"feral-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uQmVzdGlhcnkiLCJzY2FsZSI6MX1d/060e272614/AtlasMissionBestiary.png"}
+{"name":"왕실 관측기","refName":"Royal Astrolabe","namespace":"ITEM","tradeTag":"royal-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uSW5jdXJzaW9uIiwic2NhbGUiOjF9XQ/d689de7ec1/AtlasMissionIncursion.png"}
+{"name":"난해한 관측기","refName":"Cryptic Astrolabe","namespace":"ITEM","tradeTag":"cryptic-astrolabe","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvQXRsYXNNaXNzaW9uTXlzdGVyeSIsInNjYWxlIjoxfV0/1da78bb462/AtlasMissionMystery.png"}
+{"name":"회랑의 올플레임 잉걸불","refName":"Allflame Ember of the Cloister","namespace":"ITEM","tradeTag":"allflame-ember-of-the-cloister","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZUNsb2lzdGVyIiwic2NhbGUiOjF9XQ/98f5889478/AllflameCloister.png"}
+{"name":"군중의 올플레임 잉걸불","refName":"Allflame Ember of the Multitude","namespace":"ITEM","tradeTag":"allflame-ember-of-the-multitude","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZUF0bGFzIiwic2NhbGUiOjF9XQ/d6b8ab90ac/AllflameAtlas.png"}
+{"name":"신성의 올플레임 잉걸불","refName":"Allflame Ember of the Divine","namespace":"ITEM","tradeTag":"allflame-ember-of-the-divine","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTmVjcm9wb2xpcy9BbGxmbGFtZVBhbnRoZW9uIiwic2NhbGUiOjF9XQ/47e6436654/AllflamePantheon.png"}
+{"name":"아파루드 휩싸는 수정","refName":"Afarud Enshrouding Crystal","namespace":"ITEM","tradeTag":"afarud-enshrouding-crystal","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTGVnaW9uL0FmYXJ1ZEVuc2hyb3VkaW5nQ3J5c3RhbCIsInNjYWxlIjoxfV0/6e040b24a0/AfarudEnshroudingCrystal.png"}
+{"name":"실낱을 꿴 환영의 오브","refName":"Threaded Delirium Orb","namespace":"ITEM","tradeTag":"threaded-delirium-orb","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwic2NhbGUiOjF9XQ/ca1dcdc38b/DeliriumOrbScarabs.png"}
+{"name":"계략의 에센스","refName":"Essence of Trickery","namespace":"ITEM","tradeTag":"essence-of-trickery","exchangeable":true,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlRGVsaXJpdW0iLCJzY2FsZSI6MX1d/d55a1ae408/EssenceDelirium.png"}
+{"name":"균사체 핵","refName":"Mycelium Core","namespace":"ITEM","craftable":{"category":"Jewel","uniqueOnly":true},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Jewels/BlightcoreJewel.webp"}
+{"name":"벤디고의 가죽","refName":"Hide of the Vendigo","namespace":"UNIQUE","unique":{"base":"Exquisite Leather"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/BodyArmours/VendigoPelt.webp"}
+{"name":"세월의 검","refName":"The Sword of Ages","namespace":"UNIQUE","unique":{"base":"Exquisite Blade"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Supporter2HWeapon.webp"}
+{"name":"구역질 나는 씨앗","refName":"Putrid Seed","namespace":"UNIQUE","unique":{"base":"Mycelium Core"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Jewels/BlightcoreJewel.webp"}
+{"name":"공포의 마녀의 성체","refName":"Dreadmaidens' Sacrament","namespace":"UNIQUE","unique":{"base":"Basalt Flask"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Flasks/Thornbrew.webp"}
+{"name":"탐하는 어둠","refName":"The Covetous Dark","namespace":"UNIQUE","unique":{"base":"Eye Gouger"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Eyethief_Tier00.webp"}
+{"name":"시신 장미","refName":"Corpse Rose","namespace":"UNIQUE","unique":{"base":"Imbued Wand"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/FloresSanguinaire.webp"}
+{"name":"배교자의 파멸","refName":"Bane of the Apostate","namespace":"UNIQUE","unique":{"base":"Judgement Staff"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/BonfiresCensure.webp"}
+{"name":"순리의 운명","refName":"Ordered Fate","namespace":"UNIQUE","unique":{"base":"Walnut Spirit Shield"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/Shields/OrderedFate.webp"}
+{"name":"육신의 장막","refName":"Veil of Flesh","namespace":"UNIQUE","unique":{"base":"Callous Mask"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/Helmets/ParasiticTwin.webp"}
+{"name":"꿈의 외투","refName":"Mantle of Dreams","namespace":"UNIQUE","unique":{"base":"Twilight Regalia"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Armours/BodyArmours/UnleashBodyArmour.webp"}
+{"name":"내키지 않는 포옹","refName":"Unwilling Embrace","namespace":"UNIQUE","unique":{"base":"Bone Ring"},"icon":"https://cdn.poedb.tw/image/Art/2DItems/Rings/UnwillingEmbrace.webp"}
+{"name":"비전의 연결","refName":"Arcane Link","namespace":"GEM","icon":"https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcaneLinkGem.webp","gem":{"maxLevel":20}}
+{"name":"방사능의 화염구","refName":"Fireball of Radiation","namespace":"GEM","tradeDisc":"alt_x","icon":"https://cdn.poedb.tw/image/Art/2DItems/Gems/Fireball.webp","gem":{"maxLevel":20,"transfigured":true,"normalVariant":"Fireball"}}
+{"name":"그을린 팔","refName":"Scorched Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraFireFury.webp"}
+{"name":"잘린 로아 머리","refName":"Severed Rhoa Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraRhoaHead.webp"}
+{"name":"바다 마녀의 촉수","refName":"Sea Witch's Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLeg.webp"}
+{"name":"갑각류의 집게","refName":"Crustacean's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraClaw1.webp"}
+{"name":"토템 얼굴","refName":"Totemic Visage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTikiTotem.webp"}
+{"name":"해골 궁수의 팔","refName":"Skeletal Archer's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonHand.webp"}
+{"name":"해골 전사의 다리","refName":"Skeletal Warrior's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonFoot.webp"}
+{"name":"간수의 팔","refName":"Warden's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraBrute1.webp"}
+{"name":"염소인간의 뿔","refName":"Goatman's Horn","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraGoatHorn.webp"}
+{"name":"선원의 삼각모","refName":"Mariner's Tricorne","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraPirateHat.webp"}
+{"name":"원소의 정수","refName":"Elemental Essence","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraOrbofWater.webp"}
+{"name":"충격 촉수","refName":"Galvanic Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLegLightning.webp"}
+{"name":"사이렌의 촉수","refName":"Siren's Tentacle","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraMerveilLeg.webp"}
+{"name":"살인자의 머리","refName":"Cutthroat's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraCalaf.webp"}
+{"name":"골렘 돌","refName":"Golemic Stone","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRockBody.webp"}
+{"name":"가르강튀아 발톱","refName":"Gargantuan Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraClaw2.webp"}
+{"name":"텅 빈 두개골","refName":"Hollowed Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSkullHead.webp"}
+{"name":"뼈추적자의 흉곽","refName":"Bonestalker's Ribcage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRibcage.webp"}
+{"name":"템플러 두개골","refName":"Templar Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBossSkull.webp"}
+{"name":"거미류 송곳니","refName":"Arachnid Fangs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderHead.webp"}
+{"name":"잘린 독침","refName":"Severed Stinger","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraStingerLeg.webp"}
+{"name":"도적 부랑자의 머리","refName":"Bandit Rogue's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraKraitynHead.webp"}
+{"name":"밀렵꾼의 다리","refName":"Poacher's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBanditsLeg.webp"}
+{"name":"코브라 꼬리","refName":"Cobra Tail","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSnakeTailLeg.webp"}
+{"name":"도적 마녀의 머리","refName":"Bandit Witch's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraAlirasHead.webp"}
+{"name":"거미류 다리","refName":"Arachnid Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderLeg.webp"}
+{"name":"바알 수족","refName":"Vaal Appendage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraVaalArm.webp"}
+{"name":"도적 전사의 머리","refName":"Bandit Warrior's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraOakHead.webp"}
+{"name":"영장류 발","refName":"Primate Foot","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraMonkeyLeg.webp"}
+{"name":"곰 살점","refName":"Ursine Flesh","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraDropBear.webp"}
+{"name":"인공물 수족","refName":"Artificial Appendage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraIncaBoss3Arm.webp"}
+{"name":"잘린 낫손","refName":"Severed Scythe-hand","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraReaperHand.webp"}
+{"name":"대장의 다리","refName":"Captain's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierLeg.webp"}
+{"name":"가시 발톱","refName":"Spined Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraUndyingClaw.webp"}
+{"name":"녹아내린 핵","refName":"Molten Core","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraFlamingGolemCore.webp"}
+{"name":"손상된 흉상","refName":"Defaced Bust","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDefacedStatueHead.webp"}
+{"name":"영체 두건","refName":"Spectral Hood","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraShadeHood.webp"}
+{"name":"병사의 머리","refName":"Soldier's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierHead.webp"}
+{"name":"불을 뿜는 리본","refName":"Flaming Ribbon","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBurningRugArm.webp"}
+{"name":"조각상 다리","refName":"Statue Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraStatueLeg.webp"}
+{"name":"공허운반자의 다리","refName":"Voidbearer's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSmolderingLeg.webp"}
+{"name":"전도성 기구","refName":"Voltaic Apparatus","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraLightningHead.webp"}
+{"name":"장군의 머리","refName":"General's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraGravicusHead.webp"}
+{"name":"냉혈한의 팔","refName":"Brute's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraMuscularArm.webp"}
+{"name":"마석학자의 머리","refName":"Thaumaturge's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraPietysHead.webp"}
+{"name":"가시 박힌 등딱지","refName":"Spiked Carapace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSpikedBodyCarapace.webp"}
+{"name":"해골 야수 다리","refName":"Skeletal Beast Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraHindBeastBoneLeg.webp"}
+{"name":"학자의 팔","refName":"Scholar's Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossArm.webp"}
+{"name":"귀족의 몸통","refName":"Aristocrat's Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossTorso.webp"}
+{"name":"절대군주의 주먹","refName":"Despot's Fist","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDominusFist.webp"}
+{"name":"시체매의 내장","refName":"Vulture's Gut","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVultureGut.webp"}
+{"name":"템플러 깃발","refName":"Templar Banner","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVollBanner.webp"}
+{"name":"구멍투성이 다리","refName":"Pocked Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedLeg.webp"}
+{"name":"구멍투성이 팔","refName":"Pocked Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedArm.webp"}
+{"name":"살점으로 융합된 등불","refName":"Flesh-fused Lantern","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraFleshmeltedLantern.webp"}
+{"name":"조각된 둔부","refName":"Carved Haunches","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraTotemChunk.webp"}
+{"name":"이글거리는 두개골","refName":"Blazing Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraKaomHead.webp"}
+{"name":"검투사의 심장","refName":"Gladiator's Heart","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraBarkhulHeart.webp"}
+{"name":"검술가의 칼날","refName":"Swordmaster's Blade","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraDaressoBlade.webp"}
+{"name":"키틴질 다리","refName":"Chitinous Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraSpindlyLegs.webp"}
+{"name":"충혈된 눈","refName":"Engorged Eye","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPietySwollenEye.webp"}
+{"name":"타락한 등딱지","refName":"Corrupted Carapace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraMalachaiCarapace.webp"}
+{"name":"벤디고 발톱","refName":"Vendigo Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVendigoClaw.webp"}
+{"name":"간수의 채찍","refName":"Overseer's Whip","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSlaveDriversWhip.webp"}
+{"name":"법관의 투구","refName":"Justicar's Helm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraJusticarsHelmet.webp"}
+{"name":"불을 뿜는 용광로","refName":"Flaming Furnace","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraMatriarchsCauldron.webp"}
+{"name":"지지자의 왕관","refName":"Adherent's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraPrayerCrown.webp"}
+{"name":"이단의 책","refName":"Heretical Tome","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHereticalBook.webp"}
+{"name":"해골 꼬리","refName":"Skeletal Tail","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSkullTail.webp"}
+{"name":"학자의 다리","refName":"Scholar's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHandLeg.webp"}
+{"name":"굶주린 두개골","refName":"Ravenous Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraKitavasHead.webp"}
+{"name":"귀족의 머리","refName":"Noble's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraDrownedHead.webp"}
+{"name":"결합된 사냥개 머리","refName":"Conjoined Hound Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTwinHoundHeads.webp"}
+{"name":"정찰병의 활","refName":"Scout's Bow","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraKaruiFlamingBow.webp"}
+{"name":"선조의 곤봉","refName":"Ancestor's Club","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTukohamasClubs.webp"}
+{"name":"해골 바퀴","refName":"Skeleton Wheel","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraSkeletonWheel.webp"}
+{"name":"골질 발톱","refName":"Osseous Talon","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraLightweightBones.webp"}
+{"name":"박피된 얼굴","refName":"Flayed Visage","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraShavronnesVeil.webp"}
+{"name":"곰 머리","refName":"Bear Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBearHead.webp"}
+{"name":"멧돼지 머리","refName":"Boar Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBoarHead.webp"}
+{"name":"수사슴 머리","refName":"Stag Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraStagHead.webp"}
+{"name":"거미류 알 주머니","refName":"Arachnid Egg Sac","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraRyslathasEggSac.webp"}
+{"name":"감염된 몸통","refName":"Infested Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraInfestedTorso.webp"}
+{"name":"왕게의 집게","refName":"King Crab's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBrineKingsClaw.webp"}
+{"name":"석회화된 다리","refName":"Calcified Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraBoneMass.webp"}
+{"name":"악령의 발톱","refName":"Wraith Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraWraithClaw.webp"}
+{"name":"감염된 다리","refName":"Infected Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraPutridLegs.webp"}
+{"name":"이단심문관의 클로","refName":"Inquisitor's Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraMaligarosClaw.webp"}
+{"name":"강령술사의 가면","refName":"Necromancer's Mask","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraNecromancersMask.webp"}
+{"name":"화려한 몸통","refName":"Ornate Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraRalakeshsFaces.webp"}
+{"name":"포식자의 더듬이","refName":"Devourer's Antenna","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraDevourersClaws.webp"}
+{"name":"검게 변한 폐","refName":"Blackened Lungs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/GruthkulsLungs.webp"}
+{"name":"구조물의 머리","refName":"Construct's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraSentrysHead.webp"}
+{"name":"거미 여왕의 머리","refName":"Spider Queen's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraArakaalisHead.webp"}
+{"name":"바싹 마른 머리","refName":"Dessicated Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAberrationsHead.webp"}
+{"name":"마녀의 위장","refName":"Hag's Stomach","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraDoedreGuts.webp"}
+{"name":"귀신 클로","refName":"Ghostly Claw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraOndarClaw.webp"}
+{"name":"공포스러운 아가리","refName":"Terrifying Maw","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraYugulMaw.webp"}
+{"name":"장갑을 두른 다리","refName":"Armoured Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraTituciusLegGuard.webp"}
+{"name":"검은 근위병의 다리","refName":"Blackguard's Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoonlitLeg.webp"}
+{"name":"용사의 깃발","refName":"Champion's Banner","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisChampionBanner.webp"}
+{"name":"달의 활","refName":"Lunar Bow","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraBowofLunaris.webp"}
+{"name":"황금 앙크","refName":"Golden Ankh","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAnkhofEternity.webp"}
+{"name":"마석병의 몸통","refName":"Gemling Torso","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraGemlingTorso.webp"}
+{"name":"허수아비의 쇠스랑","refName":"Scarecrow's Pitchfork","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraScarecrowPitchfork.webp"}
+{"name":"까맣게 탄 다리","refName":"Charred Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoltenLeg.webp"}
+{"name":"햇빛에 바랜 흉갑","refName":"Sun-bleached Breastplate","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisChampionBreastplate.webp"}
+{"name":"찬연한 셉터","refName":"Resplendent Sceptre","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSceptreofSolaris.webp"}
+{"name":"태양의 방패","refName":"Solar Shield","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisShield.webp"}
+{"name":"초승달 칼날","refName":"Crescent Blade","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisGlaive.webp"}
+{"name":"밀수범의 손","refName":"Smuggler's Hand","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSmugglerHand.webp"}
+{"name":"응고된 에센스","refName":"Coagulated Essence","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBloodClot.webp"}
+{"name":"극한의 송곳니","refName":"Gelid Fangs","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraFrozenFangs.webp"}
+{"name":"사막 검","refName":"Desert Sword","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSandySword.webp"}
+{"name":"전갈 독침","refName":"Scorpion Stinger","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShakarisStinger.webp"}
+{"name":"돌덩이 둔부","refName":"Lithic Haunches","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraRockyBullHooves.webp"}
+{"name":"키메랄 눈알","refName":"Chimeral Eye","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBasiliskEye.webp"}
+{"name":"카오스 골렘의 핵","refName":"Chaos Golem's Core","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraChaosGolemsCore.webp"}
+{"name":"사막 여왕의 왕관","refName":"Desert Queen's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraGarukhansCrown.webp"}
+{"name":"전도성 해골","refName":"Voltaic Skull","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSteamPunkSkull.webp"}
+{"name":"박피된 팔","refName":"Flayed Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSinewArm.webp"}
+{"name":"이단심문관의 머리","refName":"Inquisitor's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraMaligaroHead.webp"}
+{"name":"마녀의 머리","refName":"Witch's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShavronnesHead.webp"}
+{"name":"악녀의 머리","refName":"Hag's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraDoedresHead.webp"}
+{"name":"질병 걸린 날개","refName":"Diseased Wing","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraPlagueWings.webp"}
+{"name":"피투성이 팔","refName":"Bloodied Arm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBloodiedArm.webp"}
+{"name":"의족","refName":"Prosthetic Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraWickerLeg.webp"}
+{"name":"팽창한 위장","refName":"Distended Stomach","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraRegurgitatorStomach.webp"}
+{"name":"그을린 다리","refName":"Smouldering Leg","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraVilentasLeg.webp"}
+{"name":"깨진 흉상","refName":"Broken Bust","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraKnowledgeableBust.webp"}
+{"name":"골질 낫","refName":"Osseous Scythe","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBoneScythe.webp"}
+{"name":"불을 뿜는 염소 발굽","refName":"Flaming Goat Hoof","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraFlamingGoatHooves.webp"}
+{"name":"메이븐의 천체 모형","refName":"Maven's Orrery","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMavenOrrery.webp"}
+{"name":"사이러스의 머리","refName":"Sirus' Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSirusHead.webp"}
+{"name":"불안의 화신의 머리","refName":"Incarnation of Dread's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDreadHead.webp"}
+{"name":"방치의 화신의 육면체","refName":"Incarnation of Neglect's Cube","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraNeglectCube.webp"}
+{"name":"두려움의 화신의 머리","refName":"Incarnation of Fear's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraFearHead.webp"}
+{"name":"작열의 총주교의 성표","refName":"Searing Exarch's Descry","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSearingExarchDescry.webp"}
+{"name":"세계 포식자의 머리","refName":"Eater of Worlds' Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEaterofWorldsHead.webp"}
+{"name":"엘더의 머리","refName":"Elder's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraElderHead.webp"}
+{"name":"쉐이퍼의 머리","refName":"Shaper's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraShapersHead.webp"}
+{"name":"베나리우스의 성서","refName":"Venarius' Scripture","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVenariusScripture.webp"}
+{"name":"미노타우로스의 머리","refName":"Minotaur's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMinotaurHead.webp"}
+{"name":"히드라의 머리","refName":"Hydra's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHydraHead.webp"}
+{"name":"키메라의 머리","refName":"Chimera's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraChimeraHead.webp"}
+{"name":"불사조의 머리","refName":"Phoenix's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPhoenixHead.webp"}
+{"name":"위압자의 머리","refName":"Constrictor's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraConstrictorHead.webp"}
+{"name":"정화자의 머리","refName":"Purifier's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPurifierHead.webp"}
+{"name":"조종자의 머리","refName":"Enslaver's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEnslaverHead.webp"}
+{"name":"박멸자의 머리","refName":"Eradicator's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEradicatorHead.webp"}
+{"name":"바란의 머리","refName":"Baran's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBaranHead.webp"}
+{"name":"베리타니아의 머리","refName":"Veritania's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVeritaniaHead.webp"}
+{"name":"드록스의 머리","refName":"Drox's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDroxHead.webp"}
+{"name":"알-헤즈민의 머리","refName":"Al-Hezmin's Head","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAlHezminsHead.webp"}
+{"name":"구덩이 투사의 투구","refName":"Pit Fighter's Helm","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraGladiatorHelmet.webp"}
+{"name":"사자의 발톱","refName":"Lion's Claws","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraLionClaw.webp"}
+{"name":"박쥐의 날개","refName":"Bat's Wings","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBatWings.webp"}
+{"name":"악행의 악몽 같은 서","refName":"Nightmarish Book of Depravity","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBookofDepravity.webp"}
+{"name":"우트레드의 악몽 같은 머리","refName":"Nightmarish Head of Uhtred","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHeadofUhtred.webp"}
+{"name":"파괴 불가능한 존재의 악몽 같은 핵","refName":"Nightmarish Core of the Unbreakable","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraCoreoftheUnbreakable.webp"}
+{"name":"리키아의 악몽 같은 날개","refName":"Nightmarish Wings of Lycia","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofLycia.webp"}
+{"name":"카타리나의 악몽 같은 날개","refName":"Nightmarish Wings of Catarina","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofCatarina.webp"}
+{"name":"마녀단 여왕의 왕관","refName":"Coven Queen's Crown","namespace":"ITEM","viscera":true,"icon":"https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAuguryLeagueBoss.webp"}
