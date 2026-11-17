@@ -5178,8 +5178,8 @@
 {"ref":"Has Room: Locus of Corruption (Tier 3)","better":0,"matchers":[{"string":"腐敗之地 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_corruption_room_3"]},"option":true}}
 {"ref":"Has Room: Museum of Artefacts (Tier 3)","better":0,"matchers":[{"string":"文物展館 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_chests_3"]},"option":true}}
 {"ref":"Has Room: Office of Cartography (Tier 2)","better":0,"matchers":[{"string":"製圖研製室 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_cartography_room_2"]},"option":true}}
-{"ref":"Has Room: Omnitect Forge (Tier 2)","better":0,"matchers":[{"string":"全能冶煉室 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_fire_2"]},"option":true}}
-{"ref":"Has Room: Omnitect Reactor Plant (Tier 2)","better":0,"matchers":[{"string":"全能反應廠 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_lightning_2"]},"option":true}}
+{"ref":"Has Room: Omnitect Forge (Tier 2)","better":0,"matchers":[{"string":"全能冶煉室 (階級 2)"},{"string":"皇家熔爐 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_fire_2"]},"option":true}}
+{"ref":"Has Room: Omnitect Reactor Plant (Tier 2)","better":0,"matchers":[{"string":"全能反應廠 (階級 2)"},{"string":"宏偉反應爐 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_lightning_2"]},"option":true}}
 {"ref":"Has Room: Passageways","better":0,"matchers":[{"string":"神殿通道"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_passageways"]},"option":true}}
 {"ref":"Has Room: Pits","better":0,"matchers":[{"string":"神殿舊窖"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_the_pits"]},"option":true}}
 {"ref":"Has Room: Poison Garden (Tier 1)","better":0,"matchers":[{"string":"監獄花園 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_poison_room_1"]},"option":true}}
@@ -5193,7 +5193,7 @@
 {"ref":"Has Room: Shrine of Empowerment (Tier 1)","better":0,"matchers":[{"string":"恩賜神殿 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_empowering_room_1"]},"option":true}}
 {"ref":"Has Room: Shrine of Unmaking (Tier 3)","better":0,"matchers":[{"string":"毀滅神殿 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_explosives_room_3"]},"option":true}}
 {"ref":"Has Room: Sparring Room (Tier 1)","better":0,"matchers":[{"string":"格鬥場 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_weapon_room_1"]},"option":true}}
-{"ref":"Has Room: Splinter Research Lab (Tier 1)","better":1,"matchers":[{"string":"有房間：裂界研究室（階級 1） "}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_breach_room_1"]}}}
+{"ref":"Has Room: Splinter Research Lab (Tier 1)","better":0,"matchers":[{"string":"有房間：裂界研究室（階級 1） "},{"string":"異常研究所 (階級 1)"},{"string":"裂界研究室 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_breach_room_1"]},"option":true}}
 {"ref":"Has Room: Storage Room (Tier 1)","better":0,"matchers":[{"string":"儲物室 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_chests_1"]},"option":true}}
 {"ref":"Has Room: Storm of Corruption (Tier 3)","better":0,"matchers":[{"string":"腐敗風暴 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_storm_room_3"]},"option":true}}
 {"ref":"Has Room: Strongbox Chamber (Tier 1)","better":0,"matchers":[{"string":"保險箱之殿 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_strongbox_1"]},"option":true}}
@@ -5201,7 +5201,7 @@
 {"ref":"Has Room: Tempest Generator (Tier 1)","better":0,"matchers":[{"string":"暴雷發電室 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_storm_room_1"]},"option":true}}
 {"ref":"Has Room: Temple Defense Workshop (Tier 2)","better":0,"matchers":[{"string":"神殿禦防室 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_trap_room_2"]},"option":true}}
 {"ref":"Has Room: Temple Nexus (Tier 3)","better":0,"matchers":[{"string":"死神靈殿 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_empowering_room_3"]},"option":true}}
-{"ref":"Has Room: Throne of Atziri (Tier 3)","better":0,"matchers":[{"string":"阿茲里宴殿 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_queens_chambers_3"]},"option":true}}
+{"ref":"Has Room: Throne of Atziri (Tier 3)","better":0,"matchers":[{"string":"阿茲里宴殿 (階級 3)"},{"string":"創造之搖籃 (階級 3)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_queens_chambers_3"]},"option":true}}
 {"ref":"Has Room: Tombs","better":0,"matchers":[{"string":"神殿陵寢"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_tombs"]},"option":true}}
 {"ref":"Has Room: Torment Cells (Tier 1)","better":0,"matchers":[{"string":"磨難牢房 (階級 1)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_torment_1"]},"option":true}}
 {"ref":"Has Room: Torture Cages (Tier 2)","better":0,"matchers":[{"string":"拷刑大牢 (階級 2)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_torment_2"]},"option":true}}
@@ -6212,7 +6212,7 @@
 {"ref":"Projectiles cannot continue after colliding with targets","better":1,"matchers":[{"string":"投射物撞擊目標後無法繼續行進"}],"trade":{"ids":{"explicit":["explicit.stat_1732165753"]}}}
 {"ref":"Projectiles Chain +# times while you have Phasing","better":1,"matchers":[{"string":"你有迷蹤時，投射物連鎖 # 次"}],"trade":{"ids":{"explicit":["explicit.stat_383509486"],"implicit":["implicit.stat_383509486"]}}}
 {"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each Enemy Pierced","better":1,"matchers":[{"string":"投射物根據每次穿透敵人，增加 #% 擊中和異常狀態傷害"}],"trade":{"ids":{"explicit":["explicit.stat_883169830"],"implicit":["implicit.stat_883169830"],"fractured":["fractured.stat_883169830"]}}}
-{"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each time they have Chained","better":1,"matchers":[{"string":"投射物根據每次連鎖，增加 #% 擊中和異常狀態傷害"}],"trade":{"ids":{"implicit":["implicit.stat_1923210508"]}}}
+{"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each time they have Chained","better":1,"matchers":[{"string":"投射物根據每次連鎖，增加 #% 擊中和異常狀態傷害"}],"trade":{"ids":{"implicit":["implicit.stat_1923210508"],"explicit":["explicit.stat_1923210508"],"fractured":["fractured.stat_1923210508"]}}}
 {"ref":"Projectiles from Attacks can Fork # additional time","better":1,"matchers":[{"string":"來自攻擊的投射物可以額外分裂 # 次"}],"trade":{"ids":{"explicit":["explicit.stat_1643324992"]}}}
 {"ref":"Projectiles from Attacks Fork","better":1,"matchers":[{"string":"來自攻擊的投射物會分裂"}],"trade":{"ids":{"explicit":["explicit.stat_396113830"]}}}
 {"ref":"Projectiles from Attacks have #% chance to inflict Bleeding on Hit while\nyou have a Bestial Minion","better":1,"matchers":[{"string":"當你有凶猛的召喚物時，投射物攻擊有 #% 機率造成流血"},{"string":"當你有野獸召喚物，來自攻擊的投射物在擊中時會造成流血","value":100}],"trade":{"ids":{"explicit":["explicit.stat_4058504226"]}}}
@@ -8249,7 +8249,7 @@
 {"ref":"Wave of Conviction of Trarthus","better":0,"mercenary":{"icon":"https://webtw.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1NraWxsSWNvbnMvUHVyZ2UifV0/3a6173fa01/Purge.png"},"matchers":[{"string":"特拉特斯信念浪湧"}],"trade":{"ids":{"pseudo":["mercenary.skill_4286"]}}}
 {"ref":"Weapons you Animate create an additional copy","better":1,"matchers":[{"string":"你幻化的武器將額外複製出 # 把"},{"string":"你幻化的武器將額外複製出 1 把","value":1}],"trade":{"ids":{"explicit":["explicit.stat_1266553505"]}}}
 {"ref":"When 90% of your Hex's Duration Expires on an Enemy, Eat 1 Soul per Enemy Power","better":1,"matchers":[{"string":"當你對敵人施加的咒術經過 90% 的持續時間，敵人每有 1 強度便會消耗 1 靈魂"}],"trade":{"ids":{"explicit":["explicit.stat_224931623"]}}}
-{"ref":"When a nearby Minion dies, gain Rotten Bulwark equal to #% of its maximum Life","better":1,"matchers":[{"string":"當一名召喚物於周遭死亡時，獲得等同於其生命#%的腐爛壁壘"}],"trade":{"ids":{"explicit":["explicit.stat_1960869129"]}}}
+{"ref":"When a nearby Minion dies, gain Rotten Bulwark equal to #% of its maximum Life","better":1,"matchers":[{"string":"當一名召喚物於周遭死亡時，獲得等同於其生命#%的腐爛壁壘"},{"string":"當一名召喚物於 4 公尺內死亡時，獲得等同於其生命#%的腐爛壁壘"}],"trade":{"ids":{"explicit":["explicit.stat_1960869129"]}}}
 {"ref":"When an Enemy Hit deals Elemental Damage to you, their Resistance to those Elements becomes zero for 4 seconds","better":1,"matchers":[{"string":"當敵人擊中對你造成元素傷害，它們該元素的抗性變成 0，持續 4 秒"}],"trade":{"ids":{"explicit":["explicit.stat_3714446071"]}}}
 {"ref":"When Hit during effect, #% of Life loss from Damage taken occurs over 4 seconds instead","better":1,"matchers":[{"string":"當效果持續時間被擊中時，承受傷害失去的 #% 生命改為 4 秒內失去"}],"trade":{"ids":{"explicit":["explicit.stat_41860024"]}}}
 {"ref":"When Hit, gain a random Movement Speed modifier from #% reduced to #% increased, until Hit again","better":-1,"matchers":[{"string":"被擊中時，獲得隨機移動速度詞綴，從減少 #% 至增加 #%，直到再次被擊中","negate":true}],"trade":{"ids":{"explicit":["explicit.stat_3281809492"],"implicit":["implicit.stat_3281809492"]},"inverted":true}}

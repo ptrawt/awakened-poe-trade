@@ -5177,8 +5177,8 @@
 {"ref":"Has Room: Locus of Corruption (Tier 3)","better":0,"matchers":[{"string":"타락의 현장 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_corruption_room_3"]},"option":true}}
 {"ref":"Has Room: Museum of Artefacts (Tier 3)","better":0,"matchers":[{"string":"유물 박물관 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_chests_3"]},"option":true}}
 {"ref":"Has Room: Office of Cartography (Tier 2)","better":0,"matchers":[{"string":"지도 제작소 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_cartography_room_2"]},"option":true}}
-{"ref":"Has Room: Omnitect Forge (Tier 2)","better":0,"matchers":[{"string":"종합체 제련소 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_fire_2"]},"option":true}}
-{"ref":"Has Room: Omnitect Reactor Plant (Tier 2)","better":0,"matchers":[{"string":"종합체 원전 시설 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_lightning_2"]},"option":true}}
+{"ref":"Has Room: Omnitect Forge (Tier 2)","better":0,"matchers":[{"string":"종합체 제련소 (2등급)"},{"string":"왕실 대장간 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_fire_2"]},"option":true}}
+{"ref":"Has Room: Omnitect Reactor Plant (Tier 2)","better":0,"matchers":[{"string":"종합체 원전 시설 (2등급)"},{"string":"대반응로 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_boss_lightning_2"]},"option":true}}
 {"ref":"Has Room: Passageways","better":0,"matchers":[{"string":"통로"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_passageways"]},"option":true}}
 {"ref":"Has Room: Pits","better":0,"matchers":[{"string":"구덩이"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_the_pits"]},"option":true}}
 {"ref":"Has Room: Poison Garden (Tier 1)","better":0,"matchers":[{"string":"독초 정원 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_poison_room_1"]},"option":true}}
@@ -5192,7 +5192,7 @@
 {"ref":"Has Room: Shrine of Empowerment (Tier 1)","better":0,"matchers":[{"string":"강화의 성소 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_empowering_room_1"]},"option":true}}
 {"ref":"Has Room: Shrine of Unmaking (Tier 3)","better":0,"matchers":[{"string":"파괴의 성소 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_explosives_room_3"]},"option":true}}
 {"ref":"Has Room: Sparring Room (Tier 1)","better":0,"matchers":[{"string":"격투장 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_weapon_room_1"]},"option":true}}
-{"ref":"Has Room: Splinter Research Lab (Tier 1)","better":1,"matchers":[{"string":"다음의 방 보유: 파편 연구소 (1등급) "}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_breach_room_1"]}}}
+{"ref":"Has Room: Splinter Research Lab (Tier 1)","better":0,"matchers":[{"string":"다음의 방 보유: 파편 연구소 (1등급) "},{"string":"이형 연구소 (1등급)"},{"string":"파편 연구소 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_breach_room_1"]},"option":true}}
 {"ref":"Has Room: Storage Room (Tier 1)","better":0,"matchers":[{"string":"저장고 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_chests_1"]},"option":true}}
 {"ref":"Has Room: Storm of Corruption (Tier 3)","better":0,"matchers":[{"string":"타락의 태풍 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_storm_room_3"]},"option":true}}
 {"ref":"Has Room: Strongbox Chamber (Tier 1)","better":0,"matchers":[{"string":"금고의 방 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_strongbox_1"]},"option":true}}
@@ -5200,7 +5200,7 @@
 {"ref":"Has Room: Tempest Generator (Tier 1)","better":0,"matchers":[{"string":"폭풍 제조기 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_storm_room_1"]},"option":true}}
 {"ref":"Has Room: Temple Defense Workshop (Tier 2)","better":0,"matchers":[{"string":"사원 방어물 작업장 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_trap_room_2"]},"option":true}}
 {"ref":"Has Room: Temple Nexus (Tier 3)","better":0,"matchers":[{"string":"사원의 연결부 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_empowering_room_3"]},"option":true}}
-{"ref":"Has Room: Throne of Atziri (Tier 3)","better":0,"matchers":[{"string":"앗지리의 왕좌 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_queens_chambers_3"]},"option":true}}
+{"ref":"Has Room: Throne of Atziri (Tier 3)","better":0,"matchers":[{"string":"앗지리의 왕좌 (3등급)"},{"string":"창조의 요람 (3등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_queens_chambers_3"]},"option":true}}
 {"ref":"Has Room: Tombs","better":0,"matchers":[{"string":"무덤"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_tombs"]},"option":true}}
 {"ref":"Has Room: Torment Cells (Tier 1)","better":0,"matchers":[{"string":"고문용 감방 (1등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_torment_1"]},"option":true}}
 {"ref":"Has Room: Torture Cages (Tier 2)","better":0,"matchers":[{"string":"고문용 창살 (2등급)"}],"trade":{"ids":{"pseudo":["pseudo.pseudo_temple_torment_2"]},"option":true}}
@@ -6206,7 +6206,7 @@
 {"ref":"Projectiles cannot continue after colliding with targets","better":1,"matchers":[{"string":"투사체가 대상과 충돌 후 계속 이동 불가"}],"trade":{"ids":{"explicit":["explicit.stat_1732165753"]}}}
 {"ref":"Projectiles Chain +# times while you have Phasing","better":1,"matchers":[{"string":"차원 능력을 보유한 상태에서 투사체 연쇄 #회"}],"trade":{"ids":{"explicit":["explicit.stat_383509486"],"implicit":["implicit.stat_383509486"]}}}
 {"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each Enemy Pierced","better":1,"matchers":[{"string":"투사체가 관통한 적 하나당 해당 투사체의 명중 및 상태 이상 피해 #% 증가"}],"trade":{"ids":{"explicit":["explicit.stat_883169830"],"implicit":["implicit.stat_883169830"],"fractured":["fractured.stat_883169830"]}}}
-{"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each time they have Chained","better":1,"matchers":[{"string":"투사체가 연쇄한 횟수 하나당 해당 투사체의 명중 및 상태 이상 피해 #% 증가"}],"trade":{"ids":{"implicit":["implicit.stat_1923210508"]}}}
+{"ref":"Projectiles deal #% increased Damage with Hits and Ailments for each time they have Chained","better":1,"matchers":[{"string":"투사체가 연쇄한 횟수 하나당 해당 투사체의 명중 및 상태 이상 피해 #% 증가"}],"trade":{"ids":{"implicit":["implicit.stat_1923210508"],"explicit":["explicit.stat_1923210508"],"fractured":["fractured.stat_1923210508"]}}}
 {"ref":"Projectiles from Attacks can Fork # additional time","better":1,"matchers":[{"string":"공격으로 발사된 투사체가 #회 추가로 갈라질 수 있음"}],"trade":{"ids":{"explicit":["explicit.stat_1643324992"]}}}
 {"ref":"Projectiles from Attacks Fork","better":1,"matchers":[{"string":"공격으로 발사된 투사체가 갈라짐"}],"trade":{"ids":{"explicit":["explicit.stat_396113830"]}}}
 {"ref":"Projectiles from Attacks have #% chance to inflict Bleeding on Hit while\nyou have a Bestial Minion","better":1,"matchers":[{"string":"흉포한 소환수를 보유하는 동안\n공격으로 발사된 투사체 명중 시 #%의 확률로 출혈 유발"},{"string":"흉포한 소환수를 보유하는 동안 공격으로 발사된 투사체 명중 시 출혈 유발","value":100}],"trade":{"ids":{"explicit":["explicit.stat_4058504226"]}}}
@@ -8248,7 +8248,7 @@
 {"ref":"Wave of Conviction of Trarthus","better":0,"mercenary":{"icon":"https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1NraWxsSWNvbnMvUHVyZ2UifV0/3a6173fa01/Purge.png"},"matchers":[{"string":"트라투스의 신념의 파도"}],"trade":{"ids":{"pseudo":["mercenary.skill_4286"]}}}
 {"ref":"Weapons you Animate create an additional copy","better":1,"matchers":[{"string":"플레이어가 기동한 무기가 복제본 #개 추가 생성"},{"string":"플레이어가 기동한 무기가 복제본 1개 추가 생성","value":1}],"trade":{"ids":{"explicit":["explicit.stat_1266553505"]}}}
 {"ref":"When 90% of your Hex's Duration Expires on an Enemy, Eat 1 Soul per Enemy Power","better":1,"matchers":[{"string":"적에게 걸린 플레이어의 사술의 지속시간이 90% 만료되면, 적의 위세 하나당 영혼 1개 포식"}],"trade":{"ids":{"explicit":["explicit.stat_224931623"]}}}
-{"ref":"When a nearby Minion dies, gain Rotten Bulwark equal to #% of its maximum Life","better":1,"matchers":[{"string":"주변의 소환수가 사망하면 소환수 최대 생명력의 #%와 동일한 썩은 방벽 획득"}],"trade":{"ids":{"explicit":["explicit.stat_1960869129"]}}}
+{"ref":"When a nearby Minion dies, gain Rotten Bulwark equal to #% of its maximum Life","better":1,"matchers":[{"string":"주변의 소환수가 사망하면 소환수 최대 생명력의 #%와 동일한 썩은 방벽 획득"},{"string":"4미터 내의 소환수가 사망하면 소환수 최대 생명력의 #%와 동일한 썩은 방벽 획득"}],"trade":{"ids":{"explicit":["explicit.stat_1960869129"]}}}
 {"ref":"When an Enemy Hit deals Elemental Damage to you, their Resistance to those Elements becomes zero for 4 seconds","better":1,"matchers":[{"string":"적에게 피격되어 원소 피해를 받는 경우, 그 적의 해당 원소 저항이 4초 동안 0이 됨"}],"trade":{"ids":{"explicit":["explicit.stat_3714446071"]}}}
 {"ref":"When Hit during effect, #% of Life loss from Damage taken occurs over 4 seconds instead","better":1,"matchers":[{"string":"효과를 받는 동안 피격 시, 받은 피해로 인한 생명력 상실량의 #%가 4초에 걸쳐 상실됨"}],"trade":{"ids":{"explicit":["explicit.stat_41860024"]}}}
 {"ref":"When Hit, gain a random Movement Speed modifier from #% reduced to #% increased, until Hit again","better":-1,"matchers":[{"string":"피격 시 다시 피격당할 때까지 무작위 이동 속도 속성(#% 감소~#% 증가) 획득","negate":true}],"trade":{"ids":{"explicit":["explicit.stat_3281809492"],"implicit":["implicit.stat_3281809492"]},"inverted":true}}

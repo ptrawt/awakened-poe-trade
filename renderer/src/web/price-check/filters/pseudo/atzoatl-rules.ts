@@ -99,7 +99,7 @@ const RULES: FilterRule[] = [
   { ref: stat('Has Room: Glittering Halls (Tier 3)') },
 
   // Tier2
-  { ref: stat('Has Room: Splinter Research Lab (Tier 1)'), remove: true },
+  { ref: stat('Has Room: Splinter Research Lab (Tier 1)') },
   { ref: stat('Has Room: Breach Containment Chamber (Tier 2)'), hidden: HIDDEN_GREEDY },
   { ref: stat('Has Room: House of the Others (Tier 3)') },
 
@@ -135,12 +135,12 @@ const RULES: FilterRule[] = [
 
   // Tier3
   { ref: stat('Has Room: Flame Workshop (Tier 1)'), remove: true },
-  { ref: stat('Has Room: Omnitect Forge (Tier 2)'), remove: true },
+  { ref: stat('Has Room: Omnitect Forge (Tier 2)') },
   { ref: stat('Has Room: Crucible of Flame (Tier 3)'), hidden: HIDDEN_GREEDY },
 
   // Tier3
   { ref: stat('Has Room: Lightning Workshop (Tier 1)'), remove: true },
-  { ref: stat('Has Room: Omnitect Reactor Plant (Tier 2)'), remove: true },
+  { ref: stat('Has Room: Omnitect Reactor Plant (Tier 2)') },
   { ref: stat('Has Room: Conduit of Lightning (Tier 3)'), hidden: HIDDEN_GREEDY },
 
   // Tier3
